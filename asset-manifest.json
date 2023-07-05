@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/privacy-policy/static/css/main.bfb0ba76.css",
+    "main.js": "/github.io/privacy-policy/static/js/main.baadcd1f.js",
+    "index.html": "/github.io/privacy-policy/index.html",
+    "main.bfb0ba76.css.map": "/github.io/privacy-policy/static/css/main.bfb0ba76.css.map",
+    "main.baadcd1f.js.map": "/github.io/privacy-policy/static/js/main.baadcd1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb0ba76.css",
+    "static/js/main.baadcd1f.js"
+  ]
+}
